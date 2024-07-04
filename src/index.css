@@ -6,3 +6,17 @@ body{
     background-color: black;
     color: white;
 }
+
+.btn{
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+}
+
+.btn-add{
+    background-color: rgb(50, 255, 50);
+}
+.btn-clear{
+    background-color: rgb(255, 50, 50);
+}
