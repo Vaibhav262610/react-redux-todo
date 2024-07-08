@@ -1,10 +1,8 @@
 
-import ReduxTodo from "./components/ReduxTodo";
-
 function App() {
   return (
     <>
-      <ReduxTodo />
+      <h1>HELLO WORLD</h1>
     </>
   );
 }
